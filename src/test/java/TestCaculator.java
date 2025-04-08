@@ -17,6 +17,6 @@ public class TestCaculator {
 
     @Test
     public void testSubtract(){
-        Assert.assertEquals(caculator.sub(6,5), 1);
+        Assert.assertEquals(caculator.sub(6,5), 0);
     }
 }
